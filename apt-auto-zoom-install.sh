@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright 2023, 2024 N. Radtke
+# License: GPLv2
 
 ### This installer script is configuring apt and is auto-generating a script to
 ### be called by apt::update::pre-invoke.
